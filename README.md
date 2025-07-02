@@ -1,4 +1,4 @@
-# 🛡️ Image Encryption Tool (GUI)
+# 🛡️ Image Encryption Tool (GUI) Created By Suvam
 
 A secure and user-friendly GUI-based image encryption and decryption tool created using Python. Built with `tkinter` and `cryptography`, this tool allows you to safely encrypt your personal images and decrypt them with a private key.
 
