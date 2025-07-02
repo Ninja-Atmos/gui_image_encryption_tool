@@ -80,18 +80,10 @@ image-encryption-tool/
 ---
 
 ## 🔗 Social Links
-
-Created by **Suvam Biswas**  
 [GitHub](https://github.com/Ninja-Atmos)  
 [LinkedIn](https://www.linkedin.com/in/suvam0961/)  
 [Facebook](https://www.facebook.com/Suvam0961/)  
 [Instagram](https://www.instagram.com/suvam__biswas/)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. You can modify and use it freely.
 
 ---
 
